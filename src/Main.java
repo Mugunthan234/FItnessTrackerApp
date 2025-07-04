@@ -4,13 +4,13 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your UserName: ");
         String userName = sc.nextLine();
+        userName = Character.toUpperCase(userName.charAt(0)) + userName.substring(1);
         System.out.println("Enter Your Age " + userName+": ");
         int age = sc.nextInt();
         sc.nextLine();
         System.out.println("Enter Your Gender " + userName+" if age 1-8 (Children) or 6-12 Months (Baby) or 0-6 Months (Infant): ");
         String gender = sc.nextLine();
         gender= Character.toUpperCase(gender.charAt(0)) + gender.substring(1);
-
         if(age>0){
         if(age>=60 && Objects.equals(gender, "Male")){
             System.out.println("Drink Water Around 2.5 to 3.0 Liters/Day (Based on activity & health)");
@@ -36,8 +36,5 @@ public class Main {
         } else{
             System.out.println("You Entered the Wrong Age.");
         }
-
-
-
     }
 }
