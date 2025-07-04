@@ -26,5 +26,18 @@ public class WaterDrinkingLevelData {
 //            | **Breastfeeding Teens (14-18 years)** | \~2.9 to 3.0 liters/day      |
 //
 
+//
+//    | **Age Group**                                    | **Recommended Steps/Day**              | **Purpose/Notes**                              |
+//            | ------------------------------------------------ | -------------------------------------- | ---------------------------------------------- |
+//            | **Toddlers (1-3 years)**                         | \~5,000 to 7,000 steps                 | Normal play and movement                       |
+//            | **Preschoolers (3-5 years)**                     | \~7,000 to 10,000 steps                | Active play encouraged                         |
+//            | **Children (6-11 years)**                        | \~12,000 to 15,000 steps               | Supports healthy growth and fitness            |
+//            | **Teenagers (12-17 years)**                      | \~10,000 to 12,000 steps               | Encourages fitness and healthy weight          |
+//            | **Adults (18-64 years)**                         | \~7,000 to 10,000+ steps               | Basic health maintenance                       |
+//            | **Older Adults (65+ years)**                     | \~6,000 to 8,000 steps                 | Mobility, heart health, joint function         |
+//            | **Pregnant Women**                               | \~7,000 to 8,000 steps (moderate pace) | Helps manage weight & circulation              |
+//            | **Weight Loss/Fitness Goal (All ages above 12)** | 10,000 to 15,000+ steps                | Supports weight loss and cardiovascular health |
+//
+
 }
 
