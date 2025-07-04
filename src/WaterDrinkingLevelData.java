@@ -39,5 +39,22 @@ public class WaterDrinkingLevelData {
 //            | **Weight Loss/Fitness Goal (All ages above 12)** | 10,000 to 15,000+ steps                | Supports weight loss and cardiovascular health |
 //
 
+//    | **Category**                                   | **Recommended Steps/Day**                | **Notes / Purpose**                                                       |
+//            | ---------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------- |
+//            | **Toddlers (1-3 years)**                       | \~5,000 to 7,000 steps                   | Natural play covers most needs                                            |
+//            | **Preschoolers (3-5 years)**                   | \~7,000 to 10,000 steps                  | Active play encouraged                                                    |
+//            | **Children (6-11 years)**                      | \~12,000 to 15,000 steps                 | Supports healthy growth & fitness                                         |
+//            | **Teenagers (12-17 years)**                    | \~10,000 to 12,000 steps                 | Fitness, healthy development                                              |
+//            | **Pregnant Teens (14-18 years)**               | \~2.4 to 2.7 liters water & 7,000+ steps | Moderate activity helps circulation                                       |
+//            | **College Students (18+ years)**               | 7,000 to 10,000+ steps                   | Classes & campus movement, add short walks                                |
+//            | **Adults (Men, 19+ years)**                    | 7,000 to 10,000+ steps                   | Health maintenance, longer strides may cover more distance                |
+//            | **Adults (Women, 19+ years)**                  | 7,000 to 10,000+ steps                   | Same step targets; shorter stride may mean slightly less distance covered |
+//            | **Pregnant Women (19+ years)**                 | 7,000 to 8,000+ steps                    | Moderate pace, avoid overexertion                                         |
+//            | **Breastfeeding Women**                        | 7,000 to 8,000+ steps                    | Supports postpartum recovery                                              |
+//            | **Working Professionals (Desk Jobs)**          | 7,000 to 8,000+ steps                    | Break sedentary lifestyle, short walks help                               |
+//            | **Active Jobs (Field/Labor/Sales)**            | 10,000 to 15,000+ steps                  | Naturally higher, balance with rest                                       |
+//            | **Older Adults (65+ years)**                   | 6,000 to 8,000 steps                     | Mobility, joint health                                                    |
+//            | **Weight Loss / High Fitness (All 12+ years)** | 10,000 to 15,000+ steps                  | Boost metabolism, cardiovascular health                                   |
+
 }
 
